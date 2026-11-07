@@ -1,0 +1,101 @@
+project_id,client_sector,initiative,region,project_lead,start_month,budget_usd_k,spend_usd_k,completion_pct,benefits_realized_pct,risk_level,status,stakeholder_satisfaction_10,team_size,primary_blocker
+PRJ-001,Manufacturing,Customer Experience Redesign,Southeast Asia,T. Kapoor,2026-07-01,571,504,65,54,Low,Delayed,6,17,Resource constraints
+PRJ-002,Public Sector,Operating Model Transformation,Middle East,T. Kapoor,2025-02-01,577,223,55,42,Low,Delayed,5,7,Skills gap
+PRJ-003,Manufacturing,Data Governance,North America,P. Nair,2025-02-01,129,44,51,48,High,At Risk,5,13,No major blocker
+PRJ-004,Manufacturing,Cloud Modernization,Middle East,P. Nair,2026-07-01,830,471,57,27,High,On Track,6,6,Data access delays
+PRJ-005,Healthcare,Data Governance,Middle East,P. Nair,2025-01-01,88,83,78,66,High,On Track,5,13,No major blocker
+PRJ-006,Healthcare,Supply Chain Optimization,Southeast Asia,A. Sharma,2026-10-01,937,353,14,5,Medium,At Risk,6,8,Resource constraints
+PRJ-007,Energy,Process Automation,North America,A. Sharma,2025-10-01,395,237,83,79,Medium,On Track,6,5,No major blocker
+PRJ-008,Retail,Supply Chain Optimization,North America,S. Iyer,2026-04-01,597,244,69,44,Low,Delayed,6,5,Data access delays
+PRJ-009,Banking,AI Readiness Assessment,India,N. Das,2026-08-01,490,486,100,95,Critical,Completed,4,5,Data access delays
+PRJ-010,Healthcare,Cybersecurity Uplift,North America,P. Nair,2025-07-01,888,405,48,38,High,On Track,6,17,Legacy system dependency
+PRJ-011,Public Sector,Cybersecurity Uplift,India,S. Iyer,2025-01-01,962,316,15,0,Low,On Track,6,17,Skills gap
+PRJ-012,Technology,Data Governance,Southeast Asia,S. Iyer,2026-10-01,249,151,60,64,Low,On Track,7,24,Scope changes
+PRJ-013,Banking,Cloud Modernization,Europe,P. Nair,2025-10-01,1032,237,37,8,High,At Risk,4,19,Legacy system dependency
+PRJ-014,Healthcare,Supply Chain Optimization,Middle East,S. Iyer,2025-03-01,439,378,71,36,Low,Delayed,7,17,Data access delays
+PRJ-015,Healthcare,Digital Service Delivery,North America,M. Singh,2026-09-01,1191,335,53,56,Medium,On Track,8,13,Skills gap
+PRJ-016,Energy,Workforce Reskilling,North America,S. Iyer,2025-02-01,456,130,35,24,Critical,Delayed,7,16,No major blocker
+PRJ-017,Telecom,Customer Experience Redesign,North America,P. Nair,2025-05-01,130,95,100,68,Critical,Completed,6,25,No major blocker
+PRJ-018,Technology,Supply Chain Optimization,North America,K. Rao,2026-04-01,1119,401,18,4,High,At Risk,6,25,No major blocker
+PRJ-019,Retail,Customer Experience Redesign,Middle East,K. Rao,2026-03-01,649,325,34,14,Critical,At Risk,6,3,No major blocker
+PRJ-020,Manufacturing,Cloud Modernization,Europe,M. Singh,2026-09-01,283,300,93,43,High,At Risk,5,20,Stakeholder alignment
+PRJ-021,Manufacturing,Cloud Modernization,Europe,N. Das,2025-07-01,759,712,100,64,Medium,Completed,5,20,Data access delays
+PRJ-022,Healthcare,Cybersecurity Uplift,North America,K. Rao,2026-02-01,198,88,92,50,Low,Delayed,7,5,Data access delays
+PRJ-023,Technology,Workforce Reskilling,Southeast Asia,M. Singh,2026-10-01,142,52,70,59,Medium,On Track,7,3,Skills gap
+PRJ-024,Banking,Operating Model Transformation,North America,T. Kapoor,2025-03-01,345,196,86,24,Medium,On Track,8,22,Skills gap
+PRJ-025,Public Sector,Digital Service Delivery,Southeast Asia,K. Rao,2026-10-01,348,419,100,88,Medium,Completed,6,21,Scope changes
+PRJ-026,Manufacturing,Process Automation,North America,P. Nair,2025-06-01,360,95,41,8,Medium,At Risk,8,8,Data access delays
+PRJ-027,Energy,Workforce Reskilling,Middle East,A. Sharma,2025-05-01,412,508,100,86,Medium,Completed,7,9,Scope changes
+PRJ-028,Public Sector,Supply Chain Optimization,Southeast Asia,R. Mehta,2025-12-01,306,121,11,19,Low,Delayed,7,21,No major blocker
+PRJ-029,Technology,Data Governance,India,P. Nair,2025-03-01,957,696,47,30,Medium,At Risk,7,15,Scope changes
+PRJ-030,Healthcare,Operating Model Transformation,Middle East,S. Iyer,2025-03-01,975,767,88,39,Critical,Delayed,6,19,Stakeholder alignment
+PRJ-031,Retail,Supply Chain Optimization,Southeast Asia,S. Iyer,2025-03-01,791,497,87,78,High,Delayed,5,20,Scope changes
+PRJ-032,Banking,AI Readiness Assessment,Middle East,M. Singh,2025-03-01,501,250,20,27,Critical,At Risk,5,3,Scope changes
+PRJ-033,Banking,AI Readiness Assessment,Southeast Asia,P. Nair,2025-12-01,1005,507,71,44,Medium,At Risk,7,9,Approval bottleneck
+PRJ-034,Energy,Customer Experience Redesign,North America,N. Das,2026-08-01,199,100,11,0,Critical,Delayed,5,9,Stakeholder alignment
+PRJ-035,Public Sector,Supply Chain Optimization,North America,T. Kapoor,2025-01-01,86,28,65,14,High,On Track,5,22,Vendor dependency
+PRJ-036,Banking,Customer Experience Redesign,North America,S. Iyer,2025-01-01,580,226,69,47,Medium,Delayed,5,5,Stakeholder alignment
+PRJ-037,Healthcare,Workforce Reskilling,North America,K. Rao,2025-10-01,875,763,100,36,Medium,Completed,5,25,No major blocker
+PRJ-038,Retail,Data Governance,Southeast Asia,R. Mehta,2025-12-01,958,598,55,52,Low,At Risk,5,6,Legacy system dependency
+PRJ-039,Technology,Supply Chain Optimization,India,R. Mehta,2026-06-01,532,289,68,45,Low,At Risk,6,12,Legacy system dependency
+PRJ-040,Technology,Cybersecurity Uplift,Middle East,M. Singh,2025-08-01,739,425,91,70,Medium,On Track,6,18,Stakeholder alignment
+PRJ-041,Public Sector,Digital Service Delivery,India,P. Nair,2026-01-01,962,334,29,19,Medium,On Track,8,14,Skills gap
+PRJ-042,Retail,Process Automation,North America,P. Nair,2026-07-01,432,199,29,8,Critical,Delayed,5,23,No major blocker
+PRJ-043,Energy,Workforce Reskilling,Middle East,R. Mehta,2025-10-01,871,249,9,1,Critical,Delayed,7,19,Data access delays
+PRJ-044,Public Sector,Cloud Modernization,Southeast Asia,T. Kapoor,2026-09-01,798,283,89,35,Medium,On Track,8,25,Scope changes
+PRJ-045,Healthcare,Supply Chain Optimization,North America,P. Nair,2025-07-01,582,223,52,46,High,On Track,5,8,Skills gap
+PRJ-046,Retail,Workforce Reskilling,Middle East,M. Singh,2026-01-01,629,226,25,6,Low,On Track,7,4,Legacy system dependency
+PRJ-047,Public Sector,Customer Experience Redesign,Southeast Asia,K. Rao,2025-10-01,684,413,73,81,Medium,On Track,7,10,Scope changes
+PRJ-048,Healthcare,Operating Model Transformation,Southeast Asia,P. Nair,2025-07-01,675,281,82,58,Critical,At Risk,6,13,No major blocker
+PRJ-049,Manufacturing,Operating Model Transformation,Southeast Asia,M. Singh,2026-08-01,750,120,20,4,High,On Track,7,19,Stakeholder alignment
+PRJ-050,Banking,Supply Chain Optimization,North America,S. Iyer,2026-06-01,778,853,100,59,High,Completed,6,21,Approval bottleneck
+PRJ-051,Manufacturing,Operating Model Transformation,North America,R. Mehta,2025-06-01,794,275,72,76,High,Delayed,3,15,Stakeholder alignment
+PRJ-052,Retail,Workforce Reskilling,Europe,T. Kapoor,2025-03-01,1116,493,31,14,High,Delayed,5,11,Vendor dependency
+PRJ-053,Technology,Operating Model Transformation,Europe,R. Mehta,2026-02-01,194,88,12,13,Medium,On Track,6,12,Skills gap
+PRJ-054,Retail,Process Automation,India,P. Nair,2026-07-01,953,568,83,43,Medium,On Track,5,12,No major blocker
+PRJ-055,Public Sector,Process Automation,North America,A. Sharma,2025-11-01,985,656,100,61,Low,Completed,7,11,Scope changes
+PRJ-056,Energy,Supply Chain Optimization,Europe,S. Iyer,2026-10-01,306,60,38,19,Medium,On Track,5,23,Scope changes
+PRJ-057,Healthcare,Customer Experience Redesign,North America,S. Iyer,2026-07-01,444,350,57,45,High,On Track,5,23,Data access delays
+PRJ-058,Energy,Cloud Modernization,Middle East,K. Rao,2025-06-01,709,306,13,18,Medium,On Track,6,7,Skills gap
+PRJ-059,Banking,AI Readiness Assessment,Europe,M. Singh,2026-05-01,194,107,36,31,Medium,At Risk,4,4,No major blocker
+PRJ-060,Healthcare,Data Governance,Europe,R. Mehta,2025-10-01,658,174,31,27,Low,At Risk,6,12,Data access delays
+PRJ-061,Energy,Cybersecurity Uplift,Europe,R. Mehta,2026-01-01,205,93,33,10,Medium,On Track,7,10,Vendor dependency
+PRJ-062,Retail,Operating Model Transformation,North America,S. Iyer,2026-08-01,617,533,88,78,Medium,On Track,5,6,No major blocker
+PRJ-063,Retail,Digital Service Delivery,India,A. Sharma,2025-01-01,180,94,100,86,Low,Completed,8,9,Legacy system dependency
+PRJ-064,Banking,Process Automation,Middle East,T. Kapoor,2025-04-01,593,613,83,74,Medium,At Risk,9,6,Approval bottleneck
+PRJ-065,Healthcare,Digital Service Delivery,Middle East,S. Iyer,2026-04-01,206,54,36,0,Critical,Delayed,5,19,Stakeholder alignment
+PRJ-066,Public Sector,Supply Chain Optimization,North America,M. Singh,2025-03-01,1077,391,18,18,Low,On Track,7,25,No major blocker
+PRJ-067,Technology,Process Automation,Middle East,N. Das,2025-10-01,222,159,42,31,Medium,At Risk,6,22,Data access delays
+PRJ-068,Retail,Workforce Reskilling,India,S. Iyer,2026-05-01,747,177,12,0,Medium,On Track,7,20,Stakeholder alignment
+PRJ-069,Retail,Process Automation,North America,P. Nair,2025-10-01,247,194,100,67,High,Completed,5,13,Skills gap
+PRJ-070,Retail,Operating Model Transformation,Europe,K. Rao,2026-08-01,247,132,100,89,High,Completed,3,14,Skills gap
+PRJ-071,Healthcare,Data Governance,North America,R. Mehta,2025-01-01,899,721,65,54,Low,Delayed,6,25,Stakeholder alignment
+PRJ-072,Technology,Cybersecurity Uplift,India,A. Sharma,2025-01-01,886,850,78,67,Medium,On Track,6,7,Skills gap
+PRJ-073,Banking,Cybersecurity Uplift,Southeast Asia,S. Iyer,2025-05-01,521,112,39,28,High,On Track,4,9,Stakeholder alignment
+PRJ-074,Retail,Digital Service Delivery,North America,R. Mehta,2025-06-01,288,237,93,27,Medium,On Track,7,8,Scope changes
+PRJ-075,Healthcare,Cloud Modernization,India,K. Rao,2025-10-01,937,600,35,26,Critical,On Track,4,5,Data access delays
+PRJ-076,Energy,Data Governance,North America,T. Kapoor,2026-07-01,771,486,73,48,High,Delayed,5,3,Resource constraints
+PRJ-077,Banking,Data Governance,North America,R. Mehta,2026-09-01,756,342,75,31,Low,On Track,6,23,Resource constraints
+PRJ-078,Public Sector,AI Readiness Assessment,Middle East,S. Iyer,2025-01-01,876,1017,100,37,Medium,Completed,6,14,Skills gap
+PRJ-079,Public Sector,Process Automation,India,N. Das,2026-07-01,673,322,47,24,Low,At Risk,8,7,No major blocker
+PRJ-080,Technology,Digital Service Delivery,Southeast Asia,R. Mehta,2025-12-01,113,55,84,74,Medium,On Track,7,21,No major blocker
+PRJ-081,Energy,Cloud Modernization,Europe,N. Das,2025-08-01,605,192,40,54,Critical,Delayed,5,15,Stakeholder alignment
+PRJ-082,Manufacturing,Process Automation,North America,N. Das,2025-01-01,925,598,46,31,Low,At Risk,6,17,Legacy system dependency
+PRJ-083,Technology,AI Readiness Assessment,Southeast Asia,K. Rao,2025-11-01,886,425,36,23,Medium,Delayed,7,9,Vendor dependency
+PRJ-084,Healthcare,Workforce Reskilling,India,M. Singh,2026-10-01,391,319,86,62,Medium,Delayed,6,19,Scope changes
+PRJ-085,Retail,Operating Model Transformation,Europe,A. Sharma,2026-03-01,292,183,87,40,Medium,On Track,7,23,Legacy system dependency
+PRJ-086,Telecom,Operating Model Transformation,Southeast Asia,N. Das,2026-06-01,262,125,36,13,Medium,On Track,6,20,Data access delays
+PRJ-087,Manufacturing,Operating Model Transformation,India,A. Sharma,2026-04-01,692,339,25,28,Medium,At Risk,8,15,Resource constraints
+PRJ-088,Manufacturing,Digital Service Delivery,Europe,T. Kapoor,2026-04-01,528,502,100,87,Critical,Completed,7,8,Legacy system dependency
+PRJ-089,Retail,Cloud Modernization,Middle East,P. Nair,2026-09-01,1149,1436,100,89,High,Completed,8,17,Resource constraints
+PRJ-090,Manufacturing,Workforce Reskilling,North America,T. Kapoor,2026-01-01,597,178,33,26,High,On Track,5,8,Data access delays
+PRJ-091,Public Sector,Supply Chain Optimization,North America,M. Singh,2025-07-01,758,246,20,35,High,Delayed,4,21,No major blocker
+PRJ-092,Technology,Workforce Reskilling,Middle East,A. Sharma,2025-06-01,1071,523,49,20,High,On Track,5,25,Legacy system dependency
+PRJ-093,Telecom,Operating Model Transformation,Middle East,S. Iyer,2025-12-01,115,59,100,66,Critical,Completed,6,10,No major blocker
+PRJ-094,Public Sector,AI Readiness Assessment,Europe,R. Mehta,2026-07-01,1095,661,77,51,High,Delayed,5,10,Skills gap
+PRJ-095,Banking,Customer Experience Redesign,North America,T. Kapoor,2025-02-01,651,159,54,18,High,On Track,7,9,No major blocker
+PRJ-096,Retail,Data Governance,Europe,S. Iyer,2026-07-01,589,235,80,42,High,At Risk,5,12,Stakeholder alignment
+PRJ-097,Energy,Customer Experience Redesign,Southeast Asia,P. Nair,2026-05-01,807,160,27,21,Low,On Track,7,7,Approval bottleneck
+PRJ-098,Banking,Cybersecurity Uplift,Middle East,M. Singh,2026-08-01,285,231,47,20,Low,On Track,6,11,Stakeholder alignment
+PRJ-099,Technology,Workforce Reskilling,Europe,R. Mehta,2025-08-01,600,232,80,50,High,Delayed,3,15,Resource constraints
+PRJ-100,Healthcare,AI Readiness Assessment,India,T. Kapoor,2026-06-01,712,332,47,20,Low,On Track,7,13,Skills gap
